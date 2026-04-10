@@ -46,8 +46,8 @@ export const AnimateOnScroll = ({
     down: "opacity-0 -translate-y-12",
     left: "opacity-0 -translate-x-12",
     right: "opacity-0 translate-x-12",
-    "left-far": "opacity-0 -translate-x-[150%]",
-    "right-far": "opacity-0 translate-x-[150%]",
+    "left-far": "opacity-0 translate-y-12 md:translate-y-0 md:-translate-x-[150%]",
+    "right-far": "opacity-0 translate-y-12 md:translate-y-0 md:translate-x-[150%]",
     none: "opacity-0"
   }[direction as 'up' | 'down' | 'left' | 'right' | 'left-far' | 'right-far' | 'none'];
   const visibleClass = "opacity-100 translate-y-0 translate-x-0";

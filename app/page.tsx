@@ -109,9 +109,8 @@ export default function App() {
         {/* Footer */}
         <footer className="py-8 bg-slate-50 dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 text-center transition-colors duration-500">
           <p className="text-slate-600 dark:text-slate-400 text-sm">
-            © {new Date().getFullYear()} Crafto Design Agency. Built for Next.js Internship Task.
-          </p>
-        </footer>
+            © {new Date().getFullYear()} Weboin. All rights reserved.
+          </p>        </footer>
 
       </div>
     </div>
