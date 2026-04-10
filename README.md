@@ -4,7 +4,7 @@ A responsive design agency landing page built with Next.js, Tailwind CSS, and Ty
 
 ## Live Deployment
 
-- Vercel: `https://design-agency-bhavyalekkala.vercel.app`
+- Vercel: `https://design-agency-lilac-ten.vercel.app`
 
 ## Overview
 
@@ -78,7 +78,7 @@ npm start
 ## Submission Details
 
 - GitHub repository link: `https://github.com/bhavyalekkala/DESIGN-AGENCY`
-- Live deployment link: `https://design-agency-bhavyalekkala.vercel.app`
+- Live deployment link: `https://design-agency-lilac-ten.vercel.app`
 
 ## Notes
 
