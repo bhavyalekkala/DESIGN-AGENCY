@@ -4,7 +4,7 @@ A responsive design agency landing page built with Next.js, Tailwind CSS, and Ty
 
 ## Live Deployment
 
-- Vercel: `https://<your-vercel-app>.vercel.app`
+- Vercel: `https://design-agency-bhavyalekkala.vercel.app`
 
 ## Overview
 
@@ -77,9 +77,9 @@ npm start
 
 ## Submission Details
 
-- GitHub repository link: `https://github.com/<your-username>/<repo-name>`
-- Live deployment link: `https://<your-vercel-app>.vercel.app`
+- GitHub repository link: `https://github.com/bhavyalekkala/DESIGN-AGENCY`
+- Live deployment link: `https://design-agency-bhavyalekkala.vercel.app`
 
 ## Notes
 
-Replace placeholder links above with your actual GitHub repo and Vercel deployment URL before submission.
+If your actual deployed Vercel URL differs, replace the live deployment link with the final URL after deployment.
