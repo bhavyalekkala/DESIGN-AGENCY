@@ -1,36 +1,14 @@
 # design-agency
 
-A responsive, modern landing page for a design agency built with Next.js, Tailwind CSS, and TypeScript.
+A responsive design agency landing page built with Next.js, Tailwind CSS, and TypeScript.
 
 ## Live Deployment
 
 - Vercel: `https://<your-vercel-app>.vercel.app`
 
-## Setup Instructions
+## Overview
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
-3. Open the app in your browser:
-   ```bash
-   http://localhost:3000
-   ```
-
-## Build
-
-- Create a production build:
-  ```bash
-  npm run build
-  ```
-- Run the production server:
-  ```bash
-  npm start
-  ```
+This project is a modern marketing website for a design agency. It includes responsive sections for hero, services, portfolio, and contact, plus smooth scroll-based animation and clean visual styling.
 
 ## Tech Stack
 
@@ -42,26 +20,66 @@ A responsive, modern landing page for a design agency built with Next.js, Tailwi
 - PostCSS
 - Lucide React icons
 
+## Features
+
+- Responsive layout for desktop and mobile
+- Animated scroll transitions
+- Reusable component-based sections
+- Static site optimized for deployment
+- JSON-driven content settings for easy updates
+
+## Setup Instructions
+
+### Prerequisites
+
+- Node.js 20+ (recommended)
+- npm 10+ or any compatible package manager
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run locally
+
+```bash
+npm run dev
+```
+
+Open `http://localhost:3000` in your browser.
+
+### Build for production
+
+```bash
+npm run build
+```
+
+### Start production server
+
+```bash
+npm start
+```
+
 ## Project Structure
 
-- `app/` — Next.js app router and pages
-- `app/components/` — reusable page sections and animation components
-- `public/` — static assets
+- `app/` — Next.js app router, layout, and pages
+- `app/components/` — Hero, Services, Portfolio, Contact, and animation components
+- `app/components/settings.json` — content settings used across the site
+- `public/` — static assets and images
+- `styles/` — global styling and Tailwind configuration
 
 ## Assumptions
 
-- This is a static marketing/agency landing page.
-- No backend or API integration is required for the current scope.
-- The page is designed for deployment on Vercel.
+- The project is intended as a static landing page without backend/API integration.
+- It is designed for deployment on Vercel or any static hosting solution compatible with Next.js.
+- The content is sample content for a creative agency and may be replaced as needed.
 
-## Additional Features
+## Submission Details
 
-- Animate-on-scroll section transitions
-- JSON-driven content settings
-- Responsive mobile and desktop layout
-- Clean component-based page structure
+- GitHub repository link: `https://github.com/<your-username>/<repo-name>`
+- Live deployment link: `https://<your-vercel-app>.vercel.app`
 
-## Submission
+## Notes
 
-- GitHub repository link: Add once the remote repo is created.
-- Live deployment link: Add once deployed to Vercel.
+Replace placeholder links above with your actual GitHub repo and Vercel deployment URL before submission.
